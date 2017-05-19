@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: InternalError
+email: bettadevindonesia@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Jakarta
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,35 +33,35 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Imam Ali Mustofa
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  email: bettadevindonesia@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: trojanboy302
+  facebook: devil.rose.666
   google:
-    plus: #username
+    plus: Betta Dev Indonesia
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: trian666leIllumination
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: ucilredbull
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: Betta Dev Indonesia
   soundcloud: #username
   weibo: #username
   flickr: #username
